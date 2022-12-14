@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;07-SB-Reflection-API-APP/src/in.ashokit&apos;&#x0D;&#x0A;- Original project: &apos;07-SB-Reflection-API&apos;&#x0D;&#x0A;- Destination element: &apos;07-SB-Reflection-API-APP/src/in.ashokit&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     in.ashokit.Student.java&#x0D;&#x0A;     in.ashokit.ReflectionDemo.java" description="Copy compilation units" destination="=07-SB-Reflection-API-APP/src&lt;in.ashokit" element1="/src&lt;in.ashokit{Student.java" element2="/src&lt;in.ashokit{ReflectionDemo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1631886790501" units="2" version="1.0"/>
+</session>

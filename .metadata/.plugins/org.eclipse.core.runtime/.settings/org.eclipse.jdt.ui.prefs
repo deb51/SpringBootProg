@@ -1,0 +1,12 @@
+breadcrumb.org.eclipse.jdt.ui.JavaPerspective=true
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="in.ashokit.Beans.Student"><rhs name\="in.ashokit.Beans.Student"/></lhs><lhs name\="in.ashokit.beans.Student"><rhs name\="in.ashokit.beans.Student"/></lhs><lhs name\="org.springframework.data.util.Streamable"><rhs name\="org.springframework.data.domain.Sort"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="org.springframework.data.domain.Sort"/></lhs><lhs name\="java.util.function.Supplier"><rhs name\="org.springframework.data.domain.Sort"/></lhs><lhs name\="org.springframework.data.domain.Sort"><rhs name\="org.springframework.data.domain.Sort"/></lhs><lhs name\="in.ashokit.entityBinding.Insurance"><rhs name\="in.ashokit.entityBinding.Insurance"/></lhs><lhs name\="in.ashokit.entity.BookPK"><rhs name\="in.ashokit.entity.BookPK"/></lhs><lhs name\="org.springframework.web.servlet.ModelAndView"><rhs name\="org.springframework.web.servlet.ModelAndView"/></lhs></history>
+content_assist_number_of_computers=19
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

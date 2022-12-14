@@ -1,0 +1,13 @@
+INDEX VERSION 1.4+F:\AshokIT\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2985305006.index
+1487768215.index
+354260248.index
+1487534042.index
+4253991103.index
+4136299077.index
+1513513034.index
+3767700481.index
+3350999380.index
+924699265.index
+415852187.index
+283512114.index
